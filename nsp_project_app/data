@@ -1,0 +1,46 @@
+Client creation----
+
+{
+"username" : {
+"username": "priyansh12"},
+"Age": "12",
+"TechnicalField": "1",
+"NonTechnicalField": "1",
+"Institute": "Pce",
+"city_Name": "1",
+"confirm_password": "12345678",
+"email": "rahul@gmail.com",
+"password": "12345678"
+   }
+
+{
+"name": "rahul",
+"username" : {
+"username": "priyansh192"
+},
+"Age": "12",
+"TechnicalField": "1",
+"NonTechnicalField": "1",
+"Institute": "Pce",
+"city_Name": "1",
+"confirm_password": "12345678",
+"email": "rahul@gmail.com",
+"password": "12345678"
+   }
+
+Like-----------------------------------------------------------------------------------------------------------
+{
+"Post" : "1",
+}
+UnLike-----------------------------------------------------------------------------------------------------------
+{
+"Post" : "1"
+}
+
+Comment-----------------------------------------------------------------------------------------------------------
+{
+    "Post_comment": "Best Post",
+
+    "Post": "1"
+
+}
